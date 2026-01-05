@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/text-styling-app/static/css/main.fb4e37c3.css",
-    "main.js": "/text-styling-app/static/js/main.ce721134.js",
+    "main.js": "/text-styling-app/static/js/main.ce3b4074.js",
     "static/js/453.b2181d3b.chunk.js": "/text-styling-app/static/js/453.b2181d3b.chunk.js",
     "index.html": "/text-styling-app/index.html",
     "main.fb4e37c3.css.map": "/text-styling-app/static/css/main.fb4e37c3.css.map",
-    "main.ce721134.js.map": "/text-styling-app/static/js/main.ce721134.js.map",
+    "main.ce3b4074.js.map": "/text-styling-app/static/js/main.ce3b4074.js.map",
     "453.b2181d3b.chunk.js.map": "/text-styling-app/static/js/453.b2181d3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb4e37c3.css",
-    "static/js/main.ce721134.js"
+    "static/js/main.ce3b4074.js"
   ]
 }
