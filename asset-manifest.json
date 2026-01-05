@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/text-styling-app/static/css/main.82df0deb.css",
+    "main.js": "/text-styling-app/static/js/main.7eb5e0fe.js",
+    "static/js/453.b2181d3b.chunk.js": "/text-styling-app/static/js/453.b2181d3b.chunk.js",
+    "index.html": "/text-styling-app/index.html",
+    "main.82df0deb.css.map": "/text-styling-app/static/css/main.82df0deb.css.map",
+    "main.7eb5e0fe.js.map": "/text-styling-app/static/js/main.7eb5e0fe.js.map",
+    "453.b2181d3b.chunk.js.map": "/text-styling-app/static/js/453.b2181d3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82df0deb.css",
+    "static/js/main.7eb5e0fe.js"
+  ]
+}
