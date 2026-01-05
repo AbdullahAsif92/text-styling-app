@@ -26,7 +26,7 @@ export default function TextForm(props) {
     <>
         <div className={`container text-${props.mode === 'light' ? 'dark' : 'light'}`}>
             <h1>{props.heading}</h1>
-            <textarea className={`form-control my-3 custom-textarea ${props.mode}`} style={props.mode === 'dark' ? {backgroundColor: props.colorInputText === "" ? "black" : props.colorInputText,color:"white"} : {backgroundColor:"white",color:"black"} } value={text} onChange={handleOnChange} rows={9} id='mybox' placeholder='Enter Text Here'></textarea>
+            <textarea className={`form-control my-3 ${props.mode}`} style={props.mode === 'dark' ? {backgroundColor: props.colorInputText === "" ? "black" : props.colorInputText,color:"white"} : {backgroundColor:"white",color:"black"} } value={text} onChange={handleOnChange} rows={9} id='mybox' placeholder='Enter Text Here'></textarea>
             <button className='btn btn-secondary mx-1 my-1' onClick={upperCaseButton}>ToUpperCase</button>
             <button className='btn btn-secondary mx-1 my-1' onClick={lowerCaseButton}>ToLowersCase</button>
             <button className='btn btn-secondary mx-1 my-1' onClick={clear}>Clear</button>
