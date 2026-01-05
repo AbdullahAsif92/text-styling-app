@@ -35,7 +35,7 @@ function App() {
     })
     setTimeout(() => {
       setalert(null)
-    }, 1500);
+    }, 2000);
   }
 
   return (

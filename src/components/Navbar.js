@@ -39,7 +39,7 @@ export default function Navbar(props) {
             </li>
           </ul>
           <input 
-          className={`form-control w-25 mx-2 custom-textarea ${props.mode}`} 
+          className={`form-control mx-1 custom-textarea ${props.mode}`} 
           id='navBarColor' 
           style={props.mode === 'dark' ? {backgroundColor:"Black",color:"white"} : {backgroundColor:"white",color:"black"}} 
           value={props.colorInputText} 

@@ -2,8 +2,16 @@
 .custom-textarea::placeholder {
   color: black;
 }
-
+.custom-textarea{
+  width: 30%;
+}
 /* Dark mode placeholder */
 .custom-textarea.dark::placeholder {
   color: white;
+}
+@media(max-width: 768px){
+  .custom-textarea{
+    width: 100%;
+    margin-bottom: 8px;
+  }
 }
